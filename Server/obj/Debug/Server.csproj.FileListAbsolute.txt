@@ -1,0 +1,17 @@
+C:\Users\Desktop\Desktop\CNA_project\ProjectServerClient1\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Desktop\Desktop\CNA_project\ProjectServerClient1\Server\Server\bin\Debug\Server.exe
+C:\Users\Desktop\Desktop\CNA_project\ProjectServerClient1\Server\Server\bin\Debug\Server.pdb
+C:\Users\Desktop\Desktop\CNA_project\ProjectServerClient1\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Desktop\Desktop\CNA_project\ProjectServerClient1\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\CNA_project\ProjectServerClient1\Server\Server\obj\Debug\Server.exe
+C:\Users\Desktop\Desktop\CNA_project\ProjectServerClient1\Server\Server\obj\Debug\Server.pdb
+C:\Users\Desktop\Desktop\ProjectServerClient1\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Desktop\Desktop\ProjectServerClient1\Server\Server\bin\Debug\Server.exe
+C:\Users\Desktop\Desktop\ProjectServerClient1\Server\Server\bin\Debug\Server.pdb
+C:\Users\Desktop\Desktop\ProjectServerClient1\Server\Server\bin\Debug\Packets.dll
+C:\Users\Desktop\Desktop\ProjectServerClient1\Server\Server\bin\Debug\Packets.pdb
+C:\Users\Desktop\Desktop\ProjectServerClient1\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Desktop\Desktop\ProjectServerClient1\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\ProjectServerClient1\Server\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Desktop\Desktop\ProjectServerClient1\Server\Server\obj\Debug\Server.exe
+C:\Users\Desktop\Desktop\ProjectServerClient1\Server\Server\obj\Debug\Server.pdb
